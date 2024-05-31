@@ -1,0 +1,14 @@
+C:\Users\USER\Documents\C#\Assgn\Assgn\bin\Debug\net8.0\Assgn.exe
+C:\Users\USER\Documents\C#\Assgn\Assgn\bin\Debug\net8.0\Assgn.deps.json
+C:\Users\USER\Documents\C#\Assgn\Assgn\bin\Debug\net8.0\Assgn.runtimeconfig.json
+C:\Users\USER\Documents\C#\Assgn\Assgn\bin\Debug\net8.0\Assgn.dll
+C:\Users\USER\Documents\C#\Assgn\Assgn\bin\Debug\net8.0\Assgn.pdb
+C:\Users\USER\Documents\C#\Assgn\Assgn\obj\Debug\net8.0\Assgn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\C#\Assgn\Assgn\obj\Debug\net8.0\Assgn.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\C#\Assgn\Assgn\obj\Debug\net8.0\Assgn.AssemblyInfo.cs
+C:\Users\USER\Documents\C#\Assgn\Assgn\obj\Debug\net8.0\Assgn.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\C#\Assgn\Assgn\obj\Debug\net8.0\Assgn.dll
+C:\Users\USER\Documents\C#\Assgn\Assgn\obj\Debug\net8.0\refint\Assgn.dll
+C:\Users\USER\Documents\C#\Assgn\Assgn\obj\Debug\net8.0\Assgn.pdb
+C:\Users\USER\Documents\C#\Assgn\Assgn\obj\Debug\net8.0\Assgn.genruntimeconfig.cache
+C:\Users\USER\Documents\C#\Assgn\Assgn\obj\Debug\net8.0\ref\Assgn.dll
